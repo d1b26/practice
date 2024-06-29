@@ -1,5 +1,2 @@
 Hello, World.
 a
-
-
-for pull test
